@@ -18,7 +18,7 @@ def pagina_bienvenida():
     mid_col.image("Uni.png", width=200)
     st.title("Torta chilaquil perro Bienvenido a mi pagina web")
     st.write("Este proyecto busca demostrar el poder que se puede generar con un poco de conocimiento en programacion al igual que en electronica")
-    st.header("Ayudame a llenar este pedo")
+    st.header("🍆Ayudame a llenar este pedo")
     st.write("Ayudame a llenar este pedo")
     st.write("Ayudame a llenar este pedo")
         # URL del video de YouTube
